@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cobrar"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Cobrar" />
+
+    <item
+        android:id="@+id/ganancias"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="Ganancias" />
+
+    <item
+        android:id="@+id/historial"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="Historial" />
+    <item
+        android:id="@+id/perfil"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Perfil" />
+
+</menu>
